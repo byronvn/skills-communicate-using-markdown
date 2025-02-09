@@ -6,3 +6,5 @@ Some secondary text.
 Some teriary text.
 ###### And a sixth-level header
 Some text that's maybe not too important.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
